@@ -11,7 +11,7 @@ return function(c, s, cs)
     local fg_target = c.red
 
     local fg_current = c.dark_white
-    local fg_visible = c.cyan
+    local fg_visible = c.dark_white
     local fg_inactive = c.grayish
 
     local fg_modified = c.yellow
