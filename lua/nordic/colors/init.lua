@@ -1,4 +1,5 @@
 local colors = {
+    'barbar',
     'cmp',
     'copilot',
     'context_vt',
